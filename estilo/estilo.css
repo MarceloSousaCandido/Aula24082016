@@ -1,0 +1,26 @@
+legend {
+	text-align: center;
+}
+
+body {
+	background-color: #F8F8FF;
+}
+
+form {
+	background-color: lightblue;
+	color: green;
+	border: 1px solid black; 
+	padding: 15px;
+}
+
+.centralizar{
+	text-align: center;
+}
+
+.estilo_legenda_principal{
+	font-style: italic;
+}
+
+.estilo_legenda_interesse{
+	font-style: italic;
+}
